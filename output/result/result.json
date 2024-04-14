@@ -1,0 +1,26 @@
+{
+    "I should consider": [
+        "",
+        "",
+        "",
+        "[x] test number 20",
+        "[x] test number 21",
+        "[x] test number 22",
+        "",
+        "_X_ test number 25",
+        "_X_ test number 26",
+        "_x_ test number 27",
+        "_x_ test number 28",
+        "/n"
+    ],
+    "I shouldn't consider": [
+        "Test File",
+        "[] test number 15",
+        "[] test number 16",
+        "__ test number 17",
+        "___ test number 18",
+        "[x] test number 19",
+        "test number 23",
+        "test number 24"
+    ]
+}
